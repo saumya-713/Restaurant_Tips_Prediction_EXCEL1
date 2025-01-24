@@ -1,5 +1,5 @@
 # Restaurant Tips Prediction using Excel
-
+## You can view the detailed analysis of my Excel project here: [See my project here](https://docs.google.com/spreadsheets/d/1JnSyRRwz5lqzJPuGrgnwzB8UBiKnp1DW2MROPayTDRM/edit?usp=sharing)
 ## Description
 
 In this project, we use **Excel** to predict **restaurant tips** based on various customer and dining attributes.
